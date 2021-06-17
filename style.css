@@ -1,0 +1,33 @@
+body {
+  font-size: 30px;
+}
+
+#aa {
+  margin: 30px;
+  margin-left: 500px !important;
+  margin-right: 500px !important;
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+#aaa {
+  background-color: darkslateblue;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px grey;
+  font-size: 30px;
+}
+
+#aaaa {
+  background-color: lawngreen;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  box-shadow: 5px 5px 5px grey;
+  font-size: 30px;
+}
+
+canvas {
+  border: solid;
+  box-shadow: 3px 3px 3px grey;
+}
